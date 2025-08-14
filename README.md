@@ -40,7 +40,7 @@ private static final String USER = "root";
 private static final String PASSWORD = "root";
   
 ### 2. Clone Repository
-git clone https://github.com/bylapudi-sagar/EmployeeDataBaseApp.git
+git clone https://github.com/Bylapudi-sagar/EmployeeDataBaseApp.git
 cd EmployeeDBApp
 
 ### 3. Build Project with Maven
